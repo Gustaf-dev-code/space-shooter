@@ -1,5 +1,7 @@
 # Space Shooter 🚀
 
+![bg-start](https://github.com/user-attachments/assets/7db128d6-31ce-4127-ab80-ce0ff251b8c4)
+
 ## Descripción
 
 Space Shooter es un juego de disparos en 2D desarrollado con Pygame. Controlas una nave espacial y debes eliminar a los enemigos que aparecen en la pantalla mientras esquivas sus disparos. El juego incluye un sistema de puntuación, niveles crecientes de dificultad, vidas limitadas y un menú interactivo con opciones como pausar, ver los controles y salir.
